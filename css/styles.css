@@ -1,0 +1,17 @@
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 190px;
+  margin-bottom: 180px;
+  background-color: pink;
+  padding: 30px;
+  width: 70%;
+}
+
+
+h1 {
+  color: blue;
+}
